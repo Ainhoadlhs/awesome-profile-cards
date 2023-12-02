@@ -1,7 +1,7 @@
 {
-	"name": "adalab-web-starter-kit",
+	"name": "awesomeprofilecards",
 	"version": "3.0.1",
-	"description": "Adalab web starter kit",
+	"description": "awesom profile cards",
 	"base":"/awesome-profile-cards/",
 	"dependencies": {
 		"browser-sync": "^2.26.12",
